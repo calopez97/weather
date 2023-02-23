@@ -1,2 +1,1 @@
-# *** A minimalist weather app *** 
-
+# 🌤️ A minimalist weather app 🌤️
